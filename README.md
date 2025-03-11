@@ -2,11 +2,8 @@
 Name : ALLEN JOVETH P
 
 Roll no : 212223240007
+
 Date of experiment :
-
-
-
-
 
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
