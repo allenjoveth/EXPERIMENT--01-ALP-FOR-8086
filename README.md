@@ -150,14 +150,59 @@ ret
 ## Output  
 ![4 div](https://github.com/user-attachments/assets/21fecf92-cff7-41de-a9d9-e9d77851518f)
 
+ 
+## Programs for logical  operations: 
+
+## AND:
+```
+org 100h
+
+mov ax,1234h 
+mov bx,3456h
+AND ax,bx
+
+ret
+```
+## Output 
+![5 and](https://github.com/user-attachments/assets/5d61dda1-21ce-4cc5-9739-d02db80f0094)
+
+## OR :
+```
+org 100h
+
+mov ax,1234h 
+mov bx,3456h
+or ax,bx
+
+ret
+```
+## Output 
+![6 or](https://github.com/user-attachments/assets/c2ec5acb-6b9f-4c80-95c0-92ed2d997d7e)
+
+## NOT :
+```
+org 100h
+
+mov ax,1234h 
+NOT ax,bx
+
+ret
+```
+## Output
+![7 not](https://github.com/user-attachments/assets/fa45a325-2567-4aaf-871a-3f72bd1069e7)
+
+## XOR :
+```
+org 100h
+
+mov ax,1234h 
+mov bx,3456h
+XOR ax,bx
+
+ret
+```
+## Output 
+![8 xor](https://github.com/user-attachments/assets/3579428e-9219-4769-b1f4-adda417df364)
+
 ## Result :
 The ALP on fundamental arithmetic and logical operations is executed successfully.
- 
-
-
-
-
-
-
-
-
