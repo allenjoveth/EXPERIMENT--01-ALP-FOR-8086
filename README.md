@@ -3,8 +3,6 @@ Name : ALLEN JOVETH P
 
 Roll no : 212223240007
 
-Date of experiment :
-
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 
@@ -203,6 +201,7 @@ ret
 ```
 ## Output 
 ![8 xor](https://github.com/user-attachments/assets/3579428e-9219-4769-b1f4-adda417df364)
+
 
 ## Result :
 The ALP on fundamental arithmetic and logical operations is executed successfully.
